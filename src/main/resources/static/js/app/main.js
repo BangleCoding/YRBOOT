@@ -1,0 +1,5 @@
+var main = {
+		init : function(){
+			
+		}
+}
